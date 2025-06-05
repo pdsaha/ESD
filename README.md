@@ -1,4 +1,3 @@
-# ESD
 ---
 
 # Electrical Service Design of a 9-Floored Building
@@ -25,8 +24,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgements
 
-* \[Any relevant software or tools used]
-* \[Any individuals or teams who contributed to the project]
-* \[Resources, research, or tutorials that were helpful]
+* \[Any relevant software or tools used stated in the pdf file]
+* \[Any individuals or teams who contributed to the project stated in the pdf file]
+* \[Resources, research, or tutorials that were helpful stated in the pdf file]
 
 ---
