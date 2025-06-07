@@ -1,32 +1,43 @@
-# ESD
----
+# BNBC Compliant Electrical Service Design of a 9-Storeyed Building
 
-# Electrical Service Design of a 9-Floored Building
+## Project Overview
 
-## Overview
+This project presents a comprehensive **electrical service design** for a **9-storeyed residential/commercial building** in compliance with the **Bangladesh National Building Code (BNBC)**. The objective is to ensure safe, efficient, and code-compliant electrical distribution throughout the entire building, covering everything from power supply to protection systems.
 
-This project involves the design of the electrical systems for a 9-floor building. The primary goal is to ensure the efficient, safe, and reliable distribution of electrical power throughout the building. The project covers various electrical services, including power distribution, lighting, and emergency systems, tailored to the specific needs of each floor.
+## Scope of Work
 
-## Features
+The project includes the following components:
 
-* **Power Distribution**: Design of electrical panels, breakers, transformers, and wiring to ensure proper power distribution.
-* **Lighting Systems**: Detailed design of lighting for common areas, offices, and emergency lighting.
-* **Emergency Power Systems**: Design of backup power solutions to ensure continuous operation in case of power failures.
-* **Circuit Sizing**: Accurate sizing of circuits for safety and efficiency.
-* **Energy Efficiency**: Considerations for minimizing energy consumption and promoting sustainability.
+* **Load Estimation**: Detailed calculation of power demand for each floor and the entire building.
+* **Transformer Sizing**: Selection and sizing of transformer(s) based on total load requirements.
+* **Cable Sizing and Selection**: Appropriately sized cables for feeders and sub-feeders, taking into account voltage drop and current-carrying capacity.
+* **Protection Devices**: Determination and placement of MCBs, MCCBs, and ELCBs according to circuit requirements and safety standards.
+* **Distribution Board (DB) Design**: Layout and configuration of main distribution board (MDB) and sub-distribution boards (SDBs) for each floor.
+* **Wiring Layout**: Floor-wise wiring plan including lighting, socket outlets, and heavy-duty appliance circuits.
+* **Earthing System**: Design and implementation of an earthing system compliant with BNBC safety regulations.
+* **AutoCAD Layouts and Schematic Diagrams**: Visual representation of the electrical system through technical drawings.
 
-## Usage
+## Standards and Compliance
 
-Once the project is set up, you can view the electrical design in the provided diagrams and calculations. These files may include schematics for the entire building's electrical layout, including floor-wise distribution, lighting systems, and emergency backup systems. You can edit or modify these designs as necessary to fit the needs of your specific project or building.
+* **BNBC (Bangladesh National Building Code)** – All designs strictly adhere to the electrical section of BNBC.
+* **IEC Standards** – Used where BNBC is silent, particularly for cable sizing and protection coordination.
 
-## License
+## Tools & Software Used
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+* **AutoCAD** – For electrical layout diagrams and schematics.
+* **Microsoft Excel** – Load calculations and data tabulation.
+* **Manual Calculations** – For verification and BNBC-based computation.
 
-## Acknowledgements
+## Outcome
 
-* \[Any relevant software or tools used stated in the pdf file]
-* \[Any individuals or teams who contributed to the project stated in the pdf file]
-* \[Resources, research, or tutorials that were helpful stated in the pdf file]
+The resulting design ensures:
 
----
+* Optimal power distribution.
+* Electrical safety and protection.
+* Regulatory compliance.
+* Practical implementability on-site.
+
+## Authors & Contributions
+
+This project was prepared as part of an academic or professional exercise in electrical engineering, focusing on real-world implementation and compliance with national codes.
+
